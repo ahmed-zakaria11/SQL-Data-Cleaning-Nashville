@@ -38,3 +38,35 @@ The following cleaning operations were applied in SQL:
 ---
 
 ## 📂 Repository Structure
+📂 Data_after_cleaning
+📂 Dataset
+📄 Data_Cleaning_Project_Nashville .sql
+📄 README.md
+
+
+---
+
+## 📌 Insights
+- Clean dataset is now **free of duplicates** and **standardized**.  
+- Address fields are split into structured columns for easier analysis.  
+- Boolean fields like "Sold As Vacant" are now human-readable.  
+- Dataset ready for visualization or integration into BI tools.  
+
+---
+
+## 🚀 Tools Used
+- **SQL Server Management Studio (SSMS)**  
+- **T-SQL**  
+
+---
+
+## 📖 Learning Outcome
+This project was a **practice exercise** in applying SQL data cleaning techniques:  
+- Handling missing values  
+- Standardizing formats  
+- Using string functions for feature engineering  
+- Removing duplicates with CTEs  
+- Improving dataset readability and usability  
+
+---
+
